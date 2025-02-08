@@ -17,7 +17,7 @@ A fun and interactive quiz application built using React.js. This app includes g
 
 ## Demo
 
-You can see the demo of the app by visiting the live site or following the instructions below to run it locally.
+You can see the demo of the app by following the instructions below to run it locally.
 
 ## Installation
 
