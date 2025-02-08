@@ -41,3 +41,5 @@ cd quiz-app
 ```
 npm run dev
 ```
+Demo of the application on Youtube
+https://youtu.be/gX_dZTyGHBA
